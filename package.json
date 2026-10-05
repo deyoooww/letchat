@@ -1,0 +1,1 @@
+{"name":"letterly","type":"module","scripts":{"start":"node server.js"},"dependencies":{"argon2":"^0.41.1","express":"^5.1.0","express-rate-limit":"^7.5.0","helmet":"^8.0.0","pg":"^8.13.0","socket.io":"^4.8.0"}}
